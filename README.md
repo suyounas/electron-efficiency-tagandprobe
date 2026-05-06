@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Electron Efficiency Tag-and-Probe
 
 [![Python](https://img.shields.io/badge/Python-3.9+-blue)](https://python.org)
@@ -142,3 +143,7 @@ If you use this methodology, please cite the original paper:
 ```
 S. Younas, Rom. J. Phys. 68, 403 (2023)
 ```
+=======
+# electron-efficiency-tagandprobe
+Tag-and-Probe electron efficiency from Romanian Journal of Physics 2023
+>>>>>>> 1f3349c2a73e2df716535e6507dc357e3d4fa368
